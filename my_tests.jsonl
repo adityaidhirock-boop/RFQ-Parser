@@ -1,0 +1,40 @@
+{"text": "bopp bags price lisst shared please", "expected": {"category": "bopp_bag", "quantity": null, "unit": null, "gsm": null, "micron": null, "location": null}}
+{"text": "Need bopp bags for 50 kg rice packing, total order 20000 pcs in Nashik", "expected": {"category": "bopp_bag", "quantity": 20000, "unit": "pcs", "gsm": null, "micron": null, "location": "Nashik"}}
+{"text": "ldpe sheet 2.5 lac kg 250 micron chahiye Patna", "expected": {"category": "film", "quantity": 250000, "unit": "kg", "gsm": null, "micron": 250, "location": "Patna"}}
+{"text": "pp woven bag chahiye 15K pcs, 75 gsm, Lucknow", "expected": {"category": "woven_sack", "quantity": 15000, "unit": "pcs", "gsm": 75, "micron": null, "location": "Lucknow"}}
+{"text": "ldpe sheet 50000 kg 150 micron chahiye Ludhiana", "expected": {"category": "film", "quantity": 50000, "unit": "kg", "gsm": null, "micron": 150, "location": "Ludhiana"}}
+{"text": "pp woven bag urgent requirement 40 hazaar pcs, 75 gsm, Ludhiana", "expected": {"category": "woven_sack", "quantity": 40000, "unit": "pcs", "gsm": 75, "micron": null, "location": "Ludhiana"}}
+{"text": "bopp bag needed 1,50,000 pcs, 60 gsm, Raipur", "expected": {"category": "bopp_bag", "quantity": 150000, "unit": "pcs", "gsm": 60, "micron": null, "location": "Raipur"}}
+{"text": "ldpe sheet 2.5 lac kg 150 micron ki query hai Raipur", "expected": {"category": "film", "quantity": 250000, "unit": "kg", "gsm": null, "micron": 150, "location": "Raipur"}}
+{"text": "ldpe sheet 15K kg 100 micron ki query hai Mumbai", "expected": {"category": "film", "quantity": 15000, "unit": "kg", "gsm": null, "micron": 100, "location": "Mumbai"}}
+{"text": "bopp bag reqrmnt 50000 pcs, 90 gsm, Raipur", "expected": {"category": "bopp_bag", "quantity": 50000, "unit": "pcs", "gsm": 90, "micron": null, "location": "Raipur"}}
+{"text": "ldpe sheet 40 hazaar kg 120 micron urgent requirement Ludhiana", "expected": {"category": "film", "quantity": 40000, "unit": "kg", "gsm": null, "micron": 120, "location": "Ludhiana"}}
+{"text": "ldpe sheet 1,50,000 kg 250 micron urgent order Jaipur", "expected": {"category": "film", "quantity": 150000, "unit": "kg", "gsm": null, "micron": 250, "location": "Jaipur"}}
+{"text": "ldpe sheet 2.5 lac kg 120 micron ki query hai Jaipur", "expected": {"category": "film", "quantity": 250000, "unit": "kg", "gsm": null, "micron": 120, "location": "Jaipur"}}
+{"text": "ldpe sheet 15K kg 150 micron chahye Delhi", "expected": {"category": "film", "quantity": 15000, "unit": "kg", "gsm": null, "micron": 150, "location": "Delhi"}}
+{"text": "bopp bag needed 50000 pcs, 70 gsm, Surat", "expected": {"category": "bopp_bag", "quantity": 50000, "unit": "pcs", "gsm": 70, "micron": null, "location": "Surat"}}
+{"text": "pp woven bag chahye 40 hazaar pcs, 75 gsm, Gwalior", "expected": {"category": "woven_sack", "quantity": 40000, "unit": "pcs", "gsm": 75, "micron": null, "location": "Gwalior"}}
+{"text": "bopp bag chahye 1,50,000 pcs, 80 gsm, Jaipur", "expected": {"category": "bopp_bag", "quantity": 150000, "unit": "pcs", "gsm": 80, "micron": null, "location": "Jaipur"}}
+{"text": "ldpe sheet 2.5 lac kg 200 micron chahye Delhi", "expected": {"category": "film", "quantity": 250000, "unit": "kg", "gsm": null, "micron": 200, "location": "Delhi"}}
+{"text": "bopp pouch urgent order 15K pcs, 90 gsm, Patna", "expected": {"category": "pouch", "quantity": 15000, "unit": "pcs", "gsm": 90, "micron": null, "location": "Patna"}}
+{"text": "ldpe sheet 50000 kg 120 micron looking for Lucknow", "expected": {"category": "film", "quantity": 50000, "unit": "kg", "gsm": null, "micron": 120, "location": "Lucknow"}}
+{"text": "bopp pouch chahiye 40 hazaar pcs, 50 gsm, Chennai", "expected": {"category": "pouch", "quantity": 40000, "unit": "pcs", "gsm": 50, "micron": null, "location": "Chennai"}}
+{"text": "bopp pouch looking for 1,50,000 pcs, 90 gsm, Pune", "expected": {"category": "pouch", "quantity": 150000, "unit": "pcs", "gsm": 90, "micron": null, "location": "Pune"}}
+{"text": "non woven bag urgent order 2.5 lac pcs, 70 gsm, Jaipur", "expected": {"category": "woven_sack", "quantity": 250000, "unit": "pcs", "gsm": 70, "micron": null, "location": "Jaipur"}}
+{"text": "non woven bag reqrmnt 15K pcs, 80 gsm, Gwalior", "expected": {"category": "woven_sack", "quantity": 15000, "unit": "pcs", "gsm": 80, "micron": null, "location": "Gwalior"}}
+{"text": "pp woven bag ki query hai 50000 pcs, 70 gsm, Nagpur", "expected": {"category": "woven_sack", "quantity": 50000, "unit": "pcs", "gsm": 70, "micron": null, "location": "Nagpur"}}
+{"text": "pp woven bag urgent order 40 hazaar pcs, 80 gsm, Mumbai", "expected": {"category": "woven_sack", "quantity": 40000, "unit": "pcs", "gsm": 80, "micron": null, "location": "Mumbai"}}
+{"text": "hard paper sheet 1,50,000 kg 200 micron reqrmnt Pune", "expected": {"category": "corrugated_box", "quantity": 150000, "unit": "kg", "gsm": null, "micron": 200, "location": "Pune"}}
+{"text": "non woven bag urgent requirement 2.5 lac pcs, 90 gsm, Ludhiana", "expected": {"category": "woven_sack", "quantity": 250000, "unit": "pcs", "gsm": 90, "micron": null, "location": "Ludhiana"}}
+{"text": "bopp bag chahye 15K pcs, 90 gsm, Ludhiana", "expected": {"category": "bopp_bag", "quantity": 15000, "unit": "pcs", "gsm": 90, "micron": null, "location": "Ludhiana"}}
+{"text": "pp woven bag chahye 50000 pcs, 75 gsm, Indore", "expected": {"category": "woven_sack", "quantity": 50000, "unit": "pcs", "gsm": 75, "micron": null, "location": "Indore"}}
+{"text": "non woven bag ki query hai 40 hazaar pcs, 90 gsm, Bhopal", "expected": {"category": "woven_sack", "quantity": 40000, "unit": "pcs", "gsm": 90, "micron": null, "location": "Bhopal"}}
+{"text": "non woven bag chahiye 1,50,000 pcs, 70 gsm, Gwalior", "expected": {"category": "woven_sack", "quantity": 150000, "unit": "pcs", "gsm": 70, "micron": null, "location": "Gwalior"}}
+{"text": "bopp pouch needed 2.5 lac pcs, 90 gsm, Ludhiana", "expected": {"category": "pouch", "quantity": 250000, "unit": "pcs", "gsm": 90, "micron": null, "location": "Ludhiana"}}
+{"text": "ldpe sheet 15K kg 150 micron urgent requirement Pune", "expected": {"category": "film", "quantity": 15000, "unit": "kg", "gsm": null, "micron": 150, "location": "Pune"}}
+{"text": "bopp bag reqrmnt 50000 pcs,  80 gsm, Chennai", "expected": {"category": "bopp_bag", "quantity": 50000, "unit": "pcs", "gsm": 80, "micron": null, "location": "Chennai"}}
+{"text": "ldpe sheet 40 hazaar kg 250 micron urgent requirement Mumbai", "expected": {"category": "film", "quantity": 40000, "unit": "kg", "gsm": null, "micron": 250, "location": "Mumbai"}}
+{"text": "pp woven bag ki query hai 1,50,000 pcs, 50 gsm, Surat", "expected": {"category": "woven_sack", "quantity": 150000, "unit": "pcs", "gsm": 50, "micron": null, "location": "Surat"}}
+{"text": "ldpe sheet 2.5 lac kg 150 micron urgent requirement Patna", "expected": {"category": "film", "quantity": 250000, "unit": "kg", "gsm": null, "micron": 150, "location": "Patna"}}
+{"text": "ldpe sheet 15K kg 100 micron ki query hai Nagpur", "expected": {"category": "film", "quantity": 15000, "unit": "kg", "gsm": null, "micron": 100, "location": "Nagpur"}}
+{"text": "bopp pouch urgent requirement 50000 pcs, 90 gsm, Mumbai", "expected": {"category": "pouch", "quantity": 50000, "unit": "pcs", "gsm": 90, "micron": null, "location": "Mumbai"}}
