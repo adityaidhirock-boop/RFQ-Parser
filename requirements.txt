@@ -1,0 +1,2 @@
+# Leave empty or add standard libraries if needed
+#  No external libraries required (uses Python standard libraries only)
