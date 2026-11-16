@@ -30,4 +30,7 @@ with open("my_tests.jsonl", "r", encoding="utf-8") as f:
             print(f"Got:      {got}\n")
             if mismatches >= 3:
                 break # Stop after finding 3
+Use of AI-
+
+In understanding the Company's work flow, To generate the automation and score using python Automation, And Python code automation by AI-agents as assistance.
 
