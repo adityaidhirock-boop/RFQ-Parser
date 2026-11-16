@@ -32,5 +32,5 @@ with open("my_tests.jsonl", "r", encoding="utf-8") as f:
                 break # Stop after finding 3
 Use of AI-
 
-In understanding the Company's work flow, To generate the automation and score using python Automation, And Python code automation by AI-agents as assistance.
+In understanding the Company's work flow, To generate the automation and testing score with a given score.py  using python Automation, And Python code automation by AI-agents as assistance.
 
